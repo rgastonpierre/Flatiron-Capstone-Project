@@ -4,7 +4,7 @@
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-<img width="521" height="768" alt="network_diagram_hybrid" src="https://github.com/user-attachments/assets/4e492fc4-8335-4ec0-a4e5-925b141710c1" />
+<img src="https://github.com/user-attachments/assets/4e492fc4-8335-4ec0-a4e5-925b141710c1" />
 
 The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
@@ -12,7 +12,9 @@ The Detection Lab project aimed to establish a controlled environment for simula
 [Bullet Points - Remove
 
 
-<img src="https://github.com/user-attachments/files/23811894/devices.on.network.breakdown.pdf"></img>
+<img src="https://github.com/user-attachments/files/23811894/devices.on.network.breakdown.pdf" />
+
+
 
 
 
