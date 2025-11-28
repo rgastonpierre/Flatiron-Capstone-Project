@@ -1,22 +1,13 @@
 # Flatiron-Capstone-Project
 
-
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-<img src="https://github.com/user-attachments/assets/4e492fc4-8335-4ec0-a4e5-925b141710c1" />
 
 The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
 ### Skills Learned
-[Bullet Points - Remove
-
-
-<img src="https://github.com/user-attachments/files/23811894/devices.on.network.breakdown.pdf" />
-
-
-
-
+[Bullet Points - Remove]
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
@@ -39,3 +30,9 @@ Every screenshot should have some text explaining what the screenshot is about.
 Example below.
 
 *Ref 1: Network Diagram*
+
+
+<img src="https://github.com/user-attachments/files/23811974/devices.on.network.breakdown.pdf" />
+<img src="https://github.com/user-attachments/files/23811976/capstone.nmap.capturing.pdf" />
+<img src="https://github.com/user-attachments/files/23811978/Internal.ticketing.system.pdf" />
+<img src="https://github.com/user-attachments/assets/796dde95-8545-46ea-acaf-1305221106d0" />
